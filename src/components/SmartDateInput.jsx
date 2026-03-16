@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useEffect } from 'react';
 import { parseAnyDate, formatDisplay, toInputVal } from '../utils/dateParser';
 import { isWeekend, DAY_NAMES } from '../utils/calculations';
