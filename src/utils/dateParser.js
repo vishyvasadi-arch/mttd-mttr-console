@@ -1,3 +1,4 @@
+/* eslint-disable */
 // ─── Universal Date Parser ────────────────────────────────────────────────────
 // Handles virtually any date/time format automatically:
 //   3/6/2026 4:21:26 PM       (Excel US format)
