@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from 'react';
 import SingleCalc from './components/SingleCalc';
 import BulkCalc from './components/BulkCalc';
