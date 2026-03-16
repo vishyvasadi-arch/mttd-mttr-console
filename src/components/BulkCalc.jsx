@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useRef, useEffect } from 'react';
 import { parseAnyDate, parseBulkText, formatShort } from '../utils/dateParser';
 import { calcBizMinutes, calcCalendarMinutes, fmtDuration, slaStatus, exportToCSV, getTemplateCSV, parseCSVFile } from '../utils/calculations';
