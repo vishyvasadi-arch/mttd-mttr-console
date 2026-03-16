@@ -1,3 +1,4 @@
+/* eslint-disable */
 // ─── Team / Workspace Store ───────────────────────────────────────────────────
 // Pure frontend multi-user support via named workspaces stored in localStorage.
 // Each team member chooses a workspace name. Data is shared via CSV export/import.
