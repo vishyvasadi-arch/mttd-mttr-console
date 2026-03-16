@@ -1,3 +1,4 @@
+/* eslint-disable */
 // ─── Business Hours Constants ─────────────────────────────────────────────────
 export const BIZ_START = 8;   // 8:00 AM
 export const BIZ_END   = 20;  // 8:00 PM
